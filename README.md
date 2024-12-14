@@ -52,22 +52,6 @@ A **Multisignature Wallet** (or Multisig Wallet) on Ethereum is a smart contract
   - Web3 libraries for programmatic interaction.
 - **Transaction Fees**: Gas costs for deploying the wallet and executing transactions.
 
----
 
-## 🔧 Quick Start
-
-1. Deploy a Multisig Wallet contract to the Ethereum network.
-2. Add the desired owners and set the approval threshold (e.g., 2-of-3).
-3. Propose, approve, and execute transactions via the wallet interface.
-
----
-
-## 🌍 Future Enhancements
-
-- Support for Layer-2 networks to reduce gas fees.
-- Advanced features like timelocks, whitelisted addresses, or role-based permissions.
-- Integration with DeFi protocols for seamless asset management.
-
----
 
 Secure your assets with confidence and collaboration! 🔐
